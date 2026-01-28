@@ -9,6 +9,6 @@ Full-stack developer specializing in Python/Django and React.
 
 
 ## Recent Projects
-- 🛒 Little Library - E-commerce platform with Stripe integration
-- 💬 Take A Breath - Anonymous messaging app with Django backend
-- 🍳 Chef Claude - AI-powered recipe generator (React + Anthropic API)
+- 🛒 [Little Library](https://github.com/DaniqueJ-R/milestone_4) - E-commerce platform with Stripe integration
+- 💬 [Take A Breath](https://github.com/DaniqueJ-R/milestone_proj_3) - Anonymous messaging app with Django backend
+- 🍳 [Chef Claude](https://github.com/DaniqueJ-R/chef-claude) - AI-powered recipe generator (React + Anthropic API)
