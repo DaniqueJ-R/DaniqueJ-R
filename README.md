@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Danique 👋
 
-<!--
-**DaniqueJ-R/DaniqueJ-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer specializing in Python/Django and React.
 
-Here are some ideas to get you started:
+🔨 Currently building: [Chef Claude](https://chef-claude-proj.vercel.app/) - AI recipe generator
+💼 Open to: Junior developer roles in London
+📫 Reach me: daniquejr18@gmail.com | [LinkedIn](https://www.linkedin.com/in/danique-jones-rhule/) | [Portfolio](https://daniques-portfolio.vercel.app/)
+🌱 I’m currently learning Typescript/Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Recent Projects
+- 🛒 Little Library - E-commerce platform with Stripe integration
+- 💬 Take A Breath - Anonymous messaging app with Django backend
+- 🍳 Chef Claude - AI-powered recipe generator (React + Anthropic API)
